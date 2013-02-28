@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [NAME]
 [PHRASE]
 [ADJ] [NO_ART_NAME]
@@ -15,4 +16,23 @@ The Sun Sets on [NAME]
 We See [NAME]
 [NAME] Ever Onward
 [NAME] and Nothing More
+=======
+[NAME]
+[PHRASE]
+[ADJ] [NO_ART_NAME]
+The [ADJ] [NO_ART_NAME]
+[NAME] [ADJ]
+[NAME] and the [NOUN]
+[NAME] and the [ADJ] [NOUN]
+The [NOUN] and [NAME]
+The [ADJ] [NOUN] and [NAME]
+[NAME]: [PHRASE]
+It Must Have Been [NAME]
+My Friend [NAME]
+The Birth of [NAME]
+The Sun Sets on [NAME]
+We See [NAME]
+[NAME] Ever Onward
+[NAME] and Nothing More
+>>>>>>> 667aa369ec38d60b9fdebc4ca13492093ef4f70d
 And [ANY_PRONOUN] Sang '[NAME]!'

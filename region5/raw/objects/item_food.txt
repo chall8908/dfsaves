@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 item_food
 
 [OBJECT:ITEM]
@@ -12,4 +13,20 @@ item_food
 
 [ITEM_FOOD:ITEM_FOOD_ROAST]
 [NAME:roast]
+=======
+item_food
+
+[OBJECT:ITEM]
+
+[ITEM_FOOD:ITEM_FOOD_BISCUITS]
+[NAME:biscuits]
+[LEVEL:2]
+
+[ITEM_FOOD:ITEM_FOOD_STEW]
+[NAME:stew]
+[LEVEL:3]
+
+[ITEM_FOOD:ITEM_FOOD_ROAST]
+[NAME:roast]
+>>>>>>> 667aa369ec38d60b9fdebc4ca13492093ef4f70d
 [LEVEL:4]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 item_shield
 
 [OBJECT:ITEM]
@@ -14,4 +15,22 @@ item_shield
 [ARMORLEVEL:1]
 [BLOCKCHANCE:10]
 [UPSTEP:1]
+=======
+item_shield
+
+[OBJECT:ITEM]
+
+[ITEM_SHIELD:ITEM_SHIELD_SHIELD]
+[NAME:shield:shields]
+[ARMORLEVEL:2]
+[BLOCKCHANCE:20]
+[UPSTEP:2]
+[MATERIAL_SIZE:4]
+
+[ITEM_SHIELD:ITEM_SHIELD_BUCKLER]
+[NAME:buckler:bucklers]
+[ARMORLEVEL:1]
+[BLOCKCHANCE:10]
+[UPSTEP:1]
+>>>>>>> 667aa369ec38d60b9fdebc4ca13492093ef4f70d
 [MATERIAL_SIZE:2]

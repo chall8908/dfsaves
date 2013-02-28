@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 item_instrument
 
 [OBJECT:ITEM]
@@ -20,4 +21,28 @@ item_instrument
 
 [ITEM_INSTRUMENT:ITEM_INSTRUMENT_PICCOLO]
 [NAME:piccolo:piccolos]
+=======
+item_instrument
+
+[OBJECT:ITEM]
+
+[ITEM_INSTRUMENT:ITEM_INSTRUMENT_FLUTE]
+[NAME:flute:flutes]
+[HARD_MAT]
+
+[ITEM_INSTRUMENT:ITEM_INSTRUMENT_TRUMPET]
+[NAME:trumpet:trumpets]
+[HARD_MAT]
+
+[ITEM_INSTRUMENT:ITEM_INSTRUMENT_HARP]
+[NAME:harp:harps]
+[HARD_MAT]
+
+[ITEM_INSTRUMENT:ITEM_INSTRUMENT_DRUM]
+[NAME:drum:drums]
+[HARD_MAT]
+
+[ITEM_INSTRUMENT:ITEM_INSTRUMENT_PICCOLO]
+[NAME:piccolo:piccolos]
+>>>>>>> 667aa369ec38d60b9fdebc4ca13492093ef4f70d
 [HARD_MAT]

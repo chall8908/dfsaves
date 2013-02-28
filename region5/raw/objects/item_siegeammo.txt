@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 item_siegeammo
 
 [OBJECT:ITEM]
 
 [ITEM_SIEGEAMMO:ITEM_SIEGEAMMO_BALLISTA]
 [NAME:ballista arrow:ballista arrows]
+=======
+item_siegeammo
+
+[OBJECT:ITEM]
+
+[ITEM_SIEGEAMMO:ITEM_SIEGEAMMO_BALLISTA]
+[NAME:ballista arrow:ballista arrows]
+>>>>>>> 667aa369ec38d60b9fdebc4ca13492093ef4f70d
 [CLASS:BALLISTA]
